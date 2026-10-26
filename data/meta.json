@@ -1,0 +1,119 @@
+{
+  "name": "Upwork jobs data by flconsole",
+  "version": "2026.10",
+  "generated_at": "2026-10-26T13:51:44+00:00",
+  "source": "New public Upwork job posts tracked by flconsole (https://flconsole.com)",
+  "license": "CC BY 4.0",
+  "window": {
+    "start": "2026-09-14",
+    "end": "2026-10-25",
+    "days": 42,
+    "timezone": "UTC dates; timing files also in America/New_York"
+  },
+  "totals": {
+    "jobs_in_window": 133568,
+    "jobs_in_database_with_publish_time": 478505,
+    "first_job_in_database": "2025-06-16",
+    "jobs_per_day_in_window": 3180.2,
+    "jobs_with_skills_in_window": 131274,
+    "skills_in_rates_file": 685,
+    "skills_in_best_time_file": 100
+  },
+  "coverage": {
+    "gap_threshold_minutes": 60,
+    "pauses_in_window": [
+      {
+        "start": "2026-09-14T01:39+00:00",
+        "end": "2026-09-14T06:33+00:00"
+      },
+      {
+        "start": "2026-09-18T04:52+00:00",
+        "end": "2026-09-18T10:53+00:00"
+      },
+      {
+        "start": "2026-09-20T22:59+00:00",
+        "end": "2026-09-21T00:29+00:00"
+      },
+      {
+        "start": "2026-09-22T22:36+00:00",
+        "end": "2026-09-22T23:38+00:00"
+      },
+      {
+        "start": "2026-09-23T05:44+00:00",
+        "end": "2026-09-23T06:57+00:00"
+      },
+      {
+        "start": "2026-09-25T00:00+00:00",
+        "end": "2026-09-25T04:36+00:00"
+      },
+      {
+        "start": "2026-10-02T14:59+00:00",
+        "end": "2026-10-02T16:24+00:00"
+      },
+      {
+        "start": "2026-10-04T10:12+00:00",
+        "end": "2026-10-04T15:58+00:00"
+      },
+      {
+        "start": "2026-10-11T23:48+00:00",
+        "end": "2026-10-12T04:40+00:00"
+      },
+      {
+        "start": "2026-10-15T16:05+00:00",
+        "end": "2026-10-15T17:48+00:00"
+      },
+      {
+        "start": "2026-10-17T17:11+00:00",
+        "end": "2026-10-17T18:23+00:00"
+      }
+    ],
+    "hours_excluded_from_timing_files": 34,
+    "hours_in_window": 1008,
+    "jobs_in_observed_hours": 133376,
+    "window_days_without_pauses": 29
+  },
+  "summary": {
+    "hourly_rate_jobs": 49664,
+    "hourly_rate_p25_median_p75_usd": [
+      11,
+      20,
+      30
+    ],
+    "fixed_budget_jobs": 53613,
+    "fixed_budget_p25_median_p75_usd": [
+      28,
+      100,
+      350
+    ],
+    "hourly_job_type_share": 0.5977,
+    "us_client_share": 0.4178,
+    "payment_verified_share": 0.7708,
+    "busiest_hour_et": 12,
+    "quietest_hour_et": 1,
+    "busiest_weekday_et": "Tuesday",
+    "quietest_weekday_et": "Saturday",
+    "busiest_hour_vs_quietest_hour": 2.19,
+    "weekend_share_of_week_et": 0.1926
+  },
+  "definitions": {
+    "job": "One new job post, counted once, at its Upwork publish time (UTC).",
+    "hourly_rate": "Midpoint of the client hourly range ((from + to) / 2); the upper bound when only it is given. Jobs without a range are not in hourly_* columns. Whole USD.",
+    "fixed_budget": "Fixed-price budget in USD, jobs with a budget above 0. Whole USD.",
+    "percentiles": "Continuous percentiles (PostgreSQL percentile_cont).",
+    "skill": "Skill tags on the post; a job with several skills counts once for each.",
+    "us_client_share": "Share of jobs whose client country is the United States.",
+    "payment_verified_share": "Share of jobs whose client has a verified payment method.",
+    "avg_jobs_per_hour": "Jobs in a weekday-hour cell divided by the number of times that hour was observed.",
+    "share_of_week": "avg_jobs_per_hour of a cell divided by the sum over all 168 cells.",
+    "suppression": "Counts under 20 and statistics resting on under 20 jobs are empty.",
+    "min_skill_jobs": 200
+  },
+  "files": {
+    "jobs-per-day.csv": 497,
+    "rates-by-skill.csv": 685,
+    "best-time-overall.csv": 168,
+    "best-time-by-skill.csv": 100,
+    "clients-by-country.csv": 122,
+    "categories.csv": 76
+  }
+}
