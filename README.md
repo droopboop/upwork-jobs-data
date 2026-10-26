@@ -137,14 +137,19 @@ quieter. Earlier dates in `jobs-per-day.csv` are kept for reference; do not comp
 These are jobs tracked by flconsole, not every job on Upwork, so treat counts as relative (which skill, hour or
 country is bigger) rather than as the absolute size of the marketplace.
 
-## Updates
+## Updates and versions
 
-Refreshed monthly. Each release moves the window forward and records its version and dates in `meta.json`.
-`scripts/export.py` regenerates every file from the database.
+Refreshed monthly. `data/` always holds the latest version; each month is also kept unchanged in
+`archive/YYYY-MM/` and published as a [release](https://github.com/droopboop/upwork-jobs-data/releases)
+tagged `vYYYY.MM`, so you can cite a fixed month and compare months over time.
+Each version records its window and dates in `meta.json`. `scripts/export.py` regenerates every file from the database.
+
+The [rates tool on flconsole.com](https://flconsole.com/tools/upwork-rates) uses a rolling 30-day window, so its numbers
+can differ slightly from a monthly release.
 
 ## How to cite
 
-> flconsole, Upwork jobs data, October 2026, https://flconsole.com
+> flconsole, Upwork jobs data, October 2026 (v2026.10), https://github.com/droopboop/upwork-jobs-data
 
 Please link to https://flconsole.com when you use the data.
 

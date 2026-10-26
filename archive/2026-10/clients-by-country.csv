@@ -1,0 +1,123 @@
+client_country,jobs,share,hourly_n,hourly_median
+United States,55807,0.4178,22695,18
+United Kingdom,10666,0.0799,3502,20
+India,8423,0.0631,2577,20
+Australia,7198,0.0539,2991,18
+Canada,6480,0.0485,2419,20
+Pakistan,3882,0.0291,1411,20
+United Arab Emirates,2865,0.0214,837,20
+Germany,2327,0.0174,858,22
+Netherlands,2168,0.0162,936,18
+France,1699,0.0127,557,20
+Nigeria,1352,0.0101,379,20
+Philippines,1335,0.01,833,25
+Saudi Arabia,1147,0.0086,241,22
+Singapore,1104,0.0083,350,19
+Spain,1086,0.0081,344,19
+Ukraine,1058,0.0079,450,36
+China,1032,0.0077,213,20
+Israel,938,0.007,324,20
+Switzerland,921,0.0069,348,22
+South Africa,858,0.0064,219,18
+Bangladesh,779,0.0058,272,18
+Ireland,770,0.0058,295,22
+Italy,743,0.0056,222,22
+Egypt,658,0.0049,205,22
+Hong Kong,648,0.0049,231,20
+Brazil,644,0.0048,207,20
+Kenya,616,0.0046,269,20
+Turkey,582,0.0044,185,20
+New Zealand,580,0.0043,261,20
+Sweden,537,0.004,215,21
+Poland,533,0.004,189,26
+Indonesia,528,0.004,239,22
+Austria,524,0.0039,116,22
+Cyprus,478,0.0036,141,20
+Japan,460,0.0034,70,18
+Belgium,450,0.0034,156,20
+Romania,418,0.0031,150,22
+Denmark,397,0.003,130,22
+Mexico,369,0.0028,137,19
+Malaysia,356,0.0027,97,18
+Portugal,347,0.0026,115,18
+Vietnam,326,0.0024,127,20
+Norway,309,0.0023,142,20
+Morocco,303,0.0023,80,20
+South Korea,278,0.0021,52,20
+Bulgaria,263,0.002,84,26
+Thailand,263,0.002,84,16
+Estonia,261,0.002,73,20
+Lithuania,260,0.0019,88,18
+Colombia,246,0.0018,109,20
+Ethiopia,240,0.0018,122,22
+Argentina,231,0.0017,86,21
+Serbia,227,0.0017,76,25
+Greece,222,0.0017,76,21
+Qatar,216,0.0016,44,25
+Lebanon,198,0.0015,37,25
+Nepal,194,0.0015,62,19
+Latvia,193,0.0014,55,30
+Kuwait,184,0.0014,39,22
+Slovenia,181,0.0014,83,17
+Hungary,173,0.0013,65,20
+Finland,168,0.0013,65,18
+Croatia,166,0.0012,58,20
+Oman,165,0.0012,22,24
+Sri Lanka,165,0.0012,49,16
+Jordan,162,0.0012,44,24
+Kazakhstan,158,0.0012,33,25
+Czech Republic,156,0.0012,60,20
+Georgia,139,0.001,45,20
+Taiwan,127,0.001,40,18
+Puerto Rico,115,0.0009,45,18
+Dominican Republic,112,0.0008,55,12
+Jamaica,112,0.0008,38,17
+Armenia,111,0.0008,37,20
+Bahrain,110,0.0008,22,20
+Algeria,108,0.0008,17,
+Albania,104,0.0008,29,22
+Malta,103,0.0008,40,22
+Moldova,97,0.0007,28,25
+Slovakia,91,0.0007,29,35
+North Macedonia,89,0.0007,26,22
+Peru,89,0.0007,18,
+Chile,87,0.0007,27,25
+Tunisia,87,0.0007,23,18
+Panama,83,0.0006,37,29
+Luxembourg,82,0.0006,36,18
+Ghana,81,0.0006,28,21
+Uzbekistan,78,0.0006,26,16
+Costa Rica,76,0.0006,36,12
+Tanzania,75,0.0006,27,25
+Venezuela,71,0.0005,18,
+Bosnia and Herzegovina,67,0.0005,13,
+United States Minor Outlying Islands,58,0.0004,10,
+Zimbabwe,56,0.0004,34,18
+Uganda,52,0.0004,23,18
+Cameroon,48,0.0004,24,19
+United States Virgin Islands,48,0.0004,2,
+Ecuador,47,0.0004,16,
+Uruguay,46,0.0003,10,
+Azerbaijan,43,0.0003,15,
+El Salvador,43,0.0003,29,12
+French Polynesia,40,0.0003,39,31
+Trinidad and Tobago,38,0.0003,15,
+Palestinian Territories,37,0.0003,8,
+Iceland,36,0.0003,17,
+Bahamas,34,0.0003,11,
+Cambodia,34,0.0003,5,
+Somalia,34,0.0003,17,
+American Samoa,33,0.0002,1,
+Mauritius,31,0.0002,10,
+Cayman Islands,30,0.0002,12,
+Haiti,27,0.0002,16,
+Montenegro,27,0.0002,8,
+Rwanda,24,0.0002,13,
+Paraguay,23,0.0002,10,
+Zambia,23,0.0002,9,
+Bolivia,21,0.0002,14,
+Guatemala,21,0.0002,7,
+Isle of Man,21,0.0002,16,
+Yemen,21,0.0002,6,
+Honduras,20,0.0001,11,
+Other (114 countries with fewer than 20 jobs each),587,0.0044,,
