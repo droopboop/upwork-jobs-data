@@ -1,22 +1,22 @@
 {
   "name": "Upwork jobs data by flconsole",
-  "version": "2026.10",
-  "generated_at": "2026-10-26T13:51:44+00:00",
+  "version": "2026.11",
+  "generated_at": "2026-11-25T15:31:05+00:00",
   "source": "New public Upwork job posts tracked by flconsole (https://flconsole.com)",
   "license": "CC BY 4.0",
   "window": {
     "start": "2026-09-14",
-    "end": "2026-10-25",
-    "days": 42,
+    "end": "2026-11-24",
+    "days": 72,
     "timezone": "UTC dates; timing files also in America/New_York"
   },
   "totals": {
-    "jobs_in_window": 133568,
-    "jobs_in_database_with_publish_time": 478505,
+    "jobs_in_window": 217723,
+    "jobs_in_database_with_publish_time": 562707,
     "first_job_in_database": "2025-06-16",
-    "jobs_per_day_in_window": 3180.2,
-    "jobs_with_skills_in_window": 131274,
-    "skills_in_rates_file": 685,
+    "jobs_per_day_in_window": 3023.9,
+    "jobs_with_skills_in_window": 213507,
+    "skills_in_rates_file": 1025,
     "skills_in_best_time_file": 100
   },
   "coverage": {
@@ -65,35 +65,51 @@
       {
         "start": "2026-10-17T17:11+00:00",
         "end": "2026-10-17T18:23+00:00"
+      },
+      {
+        "start": "2026-11-19T14:54+00:00",
+        "end": "2026-11-19T18:32+00:00"
+      },
+      {
+        "start": "2026-11-21T09:14+00:00",
+        "end": "2026-11-22T06:33+00:00"
+      },
+      {
+        "start": "2026-11-22T13:35+00:00",
+        "end": "2026-11-23T06:20+00:00"
+      },
+      {
+        "start": "2026-11-23T13:56+00:00",
+        "end": "2026-11-23T15:08+00:00"
       }
     ],
-    "hours_excluded_from_timing_files": 34,
-    "hours_in_window": 1008,
-    "jobs_in_observed_hours": 133376,
-    "window_days_without_pauses": 29
+    "hours_excluded_from_timing_files": 77,
+    "hours_in_window": 1728,
+    "jobs_in_observed_hours": 217445,
+    "window_days_without_pauses": 55
   },
   "summary": {
-    "hourly_rate_jobs": 49664,
+    "hourly_rate_jobs": 81360,
     "hourly_rate_p25_median_p75_usd": [
       11,
-      20,
-      30
+      19,
+      29
     ],
-    "fixed_budget_jobs": 53613,
+    "fixed_budget_jobs": 87452,
     "fixed_budget_p25_median_p75_usd": [
-      28,
+      25,
       100,
       350
     ],
-    "hourly_job_type_share": 0.5977,
-    "us_client_share": 0.4178,
-    "payment_verified_share": 0.7708,
-    "busiest_hour_et": 12,
+    "hourly_job_type_share": 0.5971,
+    "us_client_share": 0.4146,
+    "payment_verified_share": 0.7688,
+    "busiest_hour_et": 11,
     "quietest_hour_et": 1,
     "busiest_weekday_et": "Tuesday",
     "quietest_weekday_et": "Saturday",
-    "busiest_hour_vs_quietest_hour": 2.19,
-    "weekend_share_of_week_et": 0.1926
+    "busiest_hour_vs_quietest_hour": 2.11,
+    "weekend_share_of_week_et": 0.193
   },
   "definitions": {
     "job": "One new job post, counted once, at its Upwork publish time (UTC).",
@@ -109,11 +125,11 @@
     "min_skill_jobs": 200
   },
   "files": {
-    "jobs-per-day.csv": 497,
-    "rates-by-skill.csv": 685,
+    "jobs-per-day.csv": 527,
+    "rates-by-skill.csv": 1025,
     "best-time-overall.csv": 168,
     "best-time-by-skill.csv": 100,
-    "clients-by-country.csv": 122,
+    "clients-by-country.csv": 137,
     "categories.csv": 76
   }
 }

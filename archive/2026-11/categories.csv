@@ -1,0 +1,77 @@
+level,category,subcategory,jobs,share,hourly_n,hourly_median
+category,Design & Creative,,59899,0.2751,18213,20
+subcategory,Design & Creative,Video & Animation,27327,0.1255,8117,18
+subcategory,Design & Creative,"Graphic, Editorial & Presentation Design",15654,0.0719,5259,25
+subcategory,Design & Creative,Performing Arts,4753,0.0218,1595,20
+subcategory,Design & Creative,Branding & Logo Design,4250,0.0195,1167,25
+subcategory,Design & Creative,Art & Illustration,3483,0.016,771,24
+subcategory,Design & Creative,Product Design,1929,0.0089,653,30
+subcategory,Design & Creative,Audio & Music Production,1243,0.0057,361,22
+subcategory,Design & Creative,Photography,1060,0.0049,244,30
+subcategory,Design & Creative,"NFT, AR/VR & Game Art",200,0.0009,46,22
+category,Sales & Marketing,,49458,0.2272,20826,15
+subcategory,Sales & Marketing,Digital Marketing,27917,0.1282,11388,16
+subcategory,Sales & Marketing,Lead Generation & Telemarketing,16391,0.0753,7358,10
+subcategory,Sales & Marketing,"Marketing, PR & Brand Strategy",5150,0.0237,2080,22
+category,"Web, Mobile & Software Dev",,36976,0.1698,13556,22
+subcategory,"Web, Mobile & Software Dev",Web Development,12710,0.0584,5275,25
+subcategory,"Web, Mobile & Software Dev",Web & Mobile Design,9182,0.0422,2974,22
+subcategory,"Web, Mobile & Software Dev",Ecommerce Development,4911,0.0226,1764,20
+subcategory,"Web, Mobile & Software Dev",Mobile Development,3055,0.014,904,22
+subcategory,"Web, Mobile & Software Dev",QA Testing,2131,0.0098,700,15
+subcategory,"Web, Mobile & Software Dev",Scripts & Utilities,1910,0.0088,627,30
+subcategory,"Web, Mobile & Software Dev",AI Apps & Integration,1206,0.0055,514,30
+subcategory,"Web, Mobile & Software Dev",Game Design & Development,616,0.0028,182,22
+subcategory,"Web, Mobile & Software Dev",Other - Software Development,498,0.0023,234,35
+subcategory,"Web, Mobile & Software Dev",Product Management & Scrum,333,0.0015,167,25
+subcategory,"Web, Mobile & Software Dev",Desktop Application Development,284,0.0013,107,30
+subcategory,"Web, Mobile & Software Dev","Blockchain, NFT & Cryptocurrency",140,0.0006,108,60
+category,Admin Support,,19387,0.089,8321,10
+subcategory,Admin Support,Virtual Assistance,11109,0.051,5483,8
+subcategory,Admin Support,Market Research & Product Reviews,3500,0.0161,736,15
+subcategory,Admin Support,Data Entry & Transcription Services,2849,0.0131,1003,9
+subcategory,Admin Support,Project Management,1929,0.0089,1099,19
+category,Engineering & Architecture,,11111,0.051,3572,22
+subcategory,Engineering & Architecture,3D Modeling & CAD,3241,0.0149,869,22
+subcategory,Engineering & Architecture,Civil & Structural Engineering,1598,0.0073,459,21
+subcategory,Engineering & Architecture,Contract Manufacturing,1553,0.0071,657,18
+subcategory,Engineering & Architecture,Building & Landscape Architecture,1376,0.0063,437,25
+subcategory,Engineering & Architecture,Electrical & Electronic Engineering,1165,0.0054,402,30
+subcategory,Engineering & Architecture,Energy & Mechanical Engineering,915,0.0042,319,28
+subcategory,Engineering & Architecture,Interior & Trade Show Design,690,0.0032,200,25
+subcategory,Engineering & Architecture,Physical Sciences,493,0.0023,200,20
+subcategory,Engineering & Architecture,Chemical Engineering,80,0.0004,29,32
+category,Accounting & Consulting,,10227,0.047,4708,18
+subcategory,Accounting & Consulting,Accounting & Bookkeeping,4259,0.0196,2090,15
+subcategory,Accounting & Consulting,Recruiting & Human Resources,2566,0.0118,1197,14
+subcategory,Accounting & Consulting,Management Consulting & Analysis,1131,0.0052,517,38
+subcategory,Accounting & Consulting,Financial Planning,1019,0.0047,472,42
+subcategory,Accounting & Consulting,Other - Accounting & Consulting,884,0.0041,274,48
+subcategory,Accounting & Consulting,Personal & Professional Coaching,368,0.0017,158,40
+category,Writing,,7682,0.0353,2391,25
+subcategory,Writing,Content Writing,3956,0.0182,1290,25
+subcategory,Writing,Editing & Proofreading Services,1837,0.0084,400,22
+subcategory,Writing,Professional & Business Writing,1162,0.0053,370,34
+subcategory,Writing,Sales & Marketing Copywriting,727,0.0033,331,30
+category,Data Science & Analytics,,5592,0.0257,2314,30
+subcategory,Data Science & Analytics,AI & Machine Learning,2839,0.013,1193,30
+subcategory,Data Science & Analytics,Data Analysis & Testing,1476,0.0068,650,32
+subcategory,Data Science & Analytics,Data Extraction/ETL,774,0.0036,235,16
+subcategory,Data Science & Analytics,Data Mining & Management,503,0.0023,236,25
+category,Customer Service,,4959,0.0228,2772,10
+subcategory,Customer Service,Customer Service & Tech Support,4406,0.0202,2538,9
+subcategory,Customer Service,Community Management & Tagging,553,0.0025,234,12
+category,Translation,,4641,0.0213,1517,18
+subcategory,Translation,Translation & Localization Services,3794,0.0174,1050,18
+subcategory,Translation,Language Tutoring & Interpretation,847,0.0039,467,15
+category,IT & Networking,,4252,0.0195,1928,32
+subcategory,IT & Networking,Network & System Administration,1256,0.0058,571,32
+subcategory,IT & Networking,DevOps & Solution Architecture,1233,0.0057,615,35
+subcategory,IT & Networking,Information Security & Compliance,1120,0.0051,437,35
+subcategory,IT & Networking,ERP/CRM Software,519,0.0024,238,28
+subcategory,IT & Networking,Database Management & Administration,124,0.0006,67,31
+category,Legal,,3539,0.0163,1242,48
+subcategory,Legal,Corporate & Contract Law,2880,0.0132,1014,52
+subcategory,Legal,Public Law,307,0.0014,132,54
+subcategory,Legal,International & Immigration Law,234,0.0011,72,13
+subcategory,Legal,Finance & Tax Law,118,0.0005,24,110

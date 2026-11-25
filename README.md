@@ -3,27 +3,28 @@
 Aggregated statistics of new Upwork job posts collected by [flconsole](https://flconsole.com).
 Rates by skill, posting times by weekday and hour, client countries and categories, as plain CSV files.
 
-**Version 2026.10** (generated 2026-10-26)
+**Version 2026.11** (generated 2026-11-25)
 
 | | |
 |---|---|
-| Analysis window | 2026-09-14 to 2026-10-25 (42 days, 6 full weeks, UTC dates) |
-| Job posts in the window | 133,568 (about 3,180 per day) |
-| Skills with rates | 685 (each with at least 200 jobs in the window) |
+| Analysis window | 2026-09-14 to 2026-11-24 (72 days, UTC dates) |
+| Job posts in the window | 217,723 (about 3,024 per day) |
+| Skills with rates | 1,025 (each with at least 200 jobs in the window) |
 | Skills with posting-time profiles | top 100 by volume |
-| Daily counts | 2025-06-16 to 2026-10-25 (478,505 job posts in the database on 2026-10-26) |
+| Daily counts | 2025-06-16 to 2026-11-24 (562,707 job posts in the database on 2026-11-25) |
 
 Headline numbers for the window:
 
-- Median hourly rate offered: **$20/h** (P25 $11, P75 $30; 49,664 jobs with an hourly range).
-- Median fixed-price budget: **$100** (P25 $28, P75 $350; 53,613 jobs with a budget).
-- Busiest hour: **12:00 to 13:00 US Eastern**, 191 new jobs per hour on average, 2.2 times the quietest hour (01:00 ET, 87).
-- Busiest weekday: **Tuesday** (17.4% of weekly jobs); quietest: Saturday (9.3%). Weekends: 19.3%.
-- Clients from the United States post 41.8% of jobs; 77.1% of jobs come from clients with a verified payment method.
-- Most posted skills: Graphic Design (13,033 jobs), Video Editing (12,779), Social Media Marketing (10,357).
+- Median hourly rate offered: **$19/h** (P25 $11, P75 $29; 81,360 jobs with an hourly range).
+- Median fixed-price budget: **$100** (P25 $25, P75 $350; 87,452 jobs with a budget).
+- Busiest hour: **11:00 to 12:00 US Eastern**, 2.11 times the quietest hour (01:00 ET).
+- Busiest weekday: **Tuesday**; quietest: Saturday. Weekends: 19.3%.
+- Clients from the United States post 41.5% of jobs; 76.9% of jobs come from clients with a verified payment method.
 
-Interactive versions: [Upwork rates by skill](https://flconsole.com/tools/upwork-rates) and
-[Best time to apply on Upwork](https://flconsole.com/tools/upwork-best-time).
+Interactive versions: [Upwork rates by skill](https://flconsole.com/tools/upwork-rates),
+[Best time to apply on Upwork](https://flconsole.com/tools/upwork-best-time),
+[Upwork Jobs Index](https://flconsole.com/research/upwork-jobs-index) and
+[Upwork AI filter prompts](https://flconsole.com/tools/ai-filter-prompts).
 
 ## Files
 
